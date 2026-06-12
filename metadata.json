@@ -1,0 +1,6 @@
+{
+  "name": "Summer Suites",
+  "description": "A premium freehold luxury development showcasing elite residences with low upfront fee sales packages in Johor Bahru near RTS Link and CIQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
